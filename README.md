@@ -19,16 +19,15 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 
     o	October month had the highest number of total confirmed cases.
 
-    o October month had the highest number of total deceased cases.
-
     o	Highest Vaccination rate observed in in Sikkim.
     
     o	Lowest Vaccination rate is observed in Uttar Pradesh.
     
     o	Dadra and Nagar Haveli has the highest Recovery Rate.
     
+    o October month had the highest number of total deceased cases.
     
- 
+    
  
  <br>
 
