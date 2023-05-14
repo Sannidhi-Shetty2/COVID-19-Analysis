@@ -25,9 +25,9 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
     
     o	Dadra and Nagar Haveli has the highest Recovery Rate.
     
-    o October month had the highest number of total deceased cases.
+    o	Dadra and Nagar Haveli has the highest Recovery Rate.
     
-    
+       
  
  <br>
 
