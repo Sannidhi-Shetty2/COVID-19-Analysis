@@ -12,7 +12,7 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 
 <p align="center"><img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/178dce48-6221-49b3-b2a2-d553c8f9bcdd" width="400" ></p>
 
-##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/126ceca9-e69e-43b4-851a-9de69526d082"  width="48" height="48"> Analysis
+##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/8e952995-c32d-4703-a9dd-92d1914cc6d9"  width="48" height="48"> Analysis
    
     
     o	Highest number of confirmed and deceased cases were seen in Maharashtra.
