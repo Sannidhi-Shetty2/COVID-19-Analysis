@@ -10,4 +10,4 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 
 <br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/108053296/185795751-b1ee842e-8cdc-4b15-bc78-3a55dc86626b.gif" width="400" ></p>
+<p align="center"><img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/178dce48-6221-49b3-b2a2-d553c8f9bcdd" width="400" ></p>
