@@ -51,4 +51,4 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
     8. Imported the aggregated data into Excel for further Analysis.
     
    
-
+ <p align="center"><img src="https://github.com/AmitKotnala/Covid19AnalysisIndia/assets/118646525/cfda519c-cc24-4df2-b6db-d827dd845b7a" width="1000" ></p>
