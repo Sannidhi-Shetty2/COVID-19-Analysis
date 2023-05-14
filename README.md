@@ -4,8 +4,9 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Dataset Folder** | This folder provides you two datsets i.e IPL_MATCHES.csv and IPL_BALL.csv  |
-| **Python File** | This contains the .ipynb file of the analysis which can be downloaded.  |
+| **Dataset Folder** | This folder provides data state wise and district wise data in csv format |
+| **Python File** | This contains the .ipynb file of the analysis for Data Extract and Data cleaning.  |
+| **MySQL File** | This contains the .sql file for the exploratory data analysis.  |
 
 <br>
 
