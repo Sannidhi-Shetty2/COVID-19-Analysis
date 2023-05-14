@@ -22,4 +22,25 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
     o       Top 10 average of batsman in IPL 2022.
 
     o	Highest team score in the tournament.
+ 
+ 
+ <br>
+
+## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
+
+
+    1. Import all the neccesary libraries like numpy, pandas, matplotlib and seaborn.
+    
+    2. Imported both the data files containing ball by ball data and complete matches data.
+    
+    3. Did a bit of data cleaning by removing the null values and assigning some null values with certain data.
+    
+    4. Stated analysing the data by using pandas function like groupby, sort_values etc.
+    
+    5. Used concat and merge fuction wherever reguired.
+    
+    6. Used matplotlib and seaborn charts for the better understanding and visualisation of data
+    
+    7. Provided some of the conclusions based on the analysis at the end.
+    
 
