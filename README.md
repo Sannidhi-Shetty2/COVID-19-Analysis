@@ -12,7 +12,7 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 
 <p align="center"><img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/178dce48-6221-49b3-b2a2-d553c8f9bcdd" width="400" ></p>
 
-##  <img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif"  width="48" height="48"> Analysis
+##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/126ceca9-e69e-43b4-851a-9de69526d082"  width="48" height="48"> Analysis
    
     
     o	Top scorer batter in overall IPL 2022.
