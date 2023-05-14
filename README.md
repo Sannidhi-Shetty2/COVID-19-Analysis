@@ -34,41 +34,21 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 ## <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/1f211524-e1d5-46be-a421-2662597281d7" width="48" height="48" > Quick Start
 
 
-    1. Import all the neccesary libraries like numpy, pandas, matplotlib and seaborn.
+    1. Import the data from API using requests library.
     
-    2. Imported both the data files containing ball by ball data and complete matches data.
+    2. The imported data was in json format hence we used json library to read the data.
     
-    3. Did a bit of data cleaning by removing the null values and assigning some null values with certain data.
+    3. We looked for null values and replaced it with zero, looked for duplicates.
     
     4. Stated analysing the data by using pandas function like groupby, sort_values etc.
     
-    5. Used concat and merge fuction wherever reguired.
+    5. Used nested 'for' loops to extract the relevant data from the nested dictionary.
     
-    6. Used matplotlib and seaborn charts for the better understanding and visualisation of data
+    6. Extracted the individual state data from dataframe in csv format and imported data into MySQL.
     
-    7. Provided some of the conclusions based on the analysis at the end.
+    7. Aggregated the distribution by month and week wise for each state.
     
-
-
-## <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/8e952995-c32d-4703-a9dd-92d1914cc6d9" width="60" height="60"> Conclusions
-
-1. Jos Buttler was the highest run scorer and Yuzvendra Chahal was the highest wicket taker of IPL 2022.
+    8. Imported the aggregated data into Excel for further Analysis.
     
-2. Quinton de Kock was the highest run scorer in a single inning with 140 runs.
-    
-3. Highest team score was 222/2 by Rajasthan Royals.
    
-4. CSK won by the highest run margin by defeating Delhi Capitals.
-    
-5. Jos buttler was also the highest six hitter of IPL 2022
-    
-6. Most no of tosses was won by Sunrisers Hyderabad and least by Rajasthan Royals.
-    
-7. Dinesh Kartik emerged as a best finesher by scoring most runs in death overs.
-    
-8. Gujrat Titans scored the least no of sixes but still end up winning the tournament.
-    
-9. Almost 90% of the time the toss winning team chose to field first which shows most teams preferred to chase in the tournament.
-    
-10. Out of 74 matches exactly 50% matches were won by chasing and the rest 50% by defending the score.     
 
