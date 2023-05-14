@@ -15,13 +15,19 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 ##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/126ceca9-e69e-43b4-851a-9de69526d082"  width="48" height="48"> Analysis
    
     
-    o	Top scorer batter in overall IPL 2022.
+    o	Highest number of confirmed and deceased cases were seen in Maharashtra.
 
-    o	Top 10 score in a single match by batsman.
+    o	October month had the highest number of total confirmed cases.
 
-    o       Top 10 average of batsman in IPL 2022.
+    o October month had the highest number of total deceased cases.
 
-    o	Highest team score in the tournament.
+    o	Highest Vaccination rate observed in in Sikkim.
+    
+    o	Lowest Vaccination rate is observed in Uttar Pradesh.
+    
+    o	Dadra and Nagar Haveli has the highest Recovery Rate.
+    
+    
  
  
  <br>
