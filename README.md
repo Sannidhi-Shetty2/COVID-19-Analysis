@@ -26,7 +26,7 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
  
  <br>
 
-## <img src="[https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif](https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/1f211524-e1d5-46be-a421-2662597281d7)" width="48" height="48" > Quick Start
+## <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/1f211524-e1d5-46be-a421-2662597281d7" width="48" height="48" > Quick Start
 
 
     1. Import all the neccesary libraries like numpy, pandas, matplotlib and seaborn.
