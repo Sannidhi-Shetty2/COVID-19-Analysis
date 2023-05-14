@@ -43,7 +43,7 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
     
     7. Provided some of the conclusions based on the analysis at the end.
     
-## <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/8e952995-c32d-4703-a9dd-92d1914cc6d9" width="48" height="48"> Conclusions
+## <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/8e952995-c32d-4703-a9dd-92d1914cc6d9" width="60" height="60"> Conclusions
 1. Jos Buttler was the highest run scorer and Yuzvendra Chahal was the highest wicket taker of IPL 2022.
     
 2. Quinton de Kock was the highest run scorer in a single inning with 140 runs.
