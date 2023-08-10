@@ -35,7 +35,7 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
  <br>       
  
 
-## <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/1f211524-e1d5-46be-a421-2662597281d7" width="48" height="48" > Quick Start
+## <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/1f211524-e1d5-46be-a421-2662597281d7" width="48" height="48" > Methodology
 
 
 
@@ -63,4 +63,14 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 
 
 ##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/126ceca9-e69e-43b4-851a-9de69526d082" width="48" height="48"> Dashboard
- <p align="center"><img src="https://github.com/AmitKotnala/Covid19AnalysisIndia/assets/118646525/cfda519c-cc24-4df2-b6db-d827dd845b7a" width="1000" ></p>
+ <p align="center"><img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/ff89a006-3d2c-4eb8-a177-ed643541f371" width="1000" ></p>
+ 
+
+
+## <img src="https://user-images.githubusercontent.com/108053296/185796560-b5035cfb-d8e4-4b61-b6fe-e0e75487bd94.gif" width="48" height="48" > Conclusions
+
+1. The analysis focused on the weekly progression of COVID-19 cases, recoveries, deaths, and tests, providing valuable insights into the pandemic's impact across various regions and timeframes.
+2. Fluctuations in the number of cases and deaths were observed, underscoring the dynamic nature of the pandemic's effects in different geographical areas.
+3. Through effective data visualization using charts and graphs, the project facilitated a clearer understanding of the data, aiding in the interpretation of trends and patterns.
+4. The project's findings hold practical significance for public health authorities, enabling them to devise more targeted and efficient strategies for containing the virus's transmission.
+5. Policymakers can benefit from the analysis by making informed decisions on resource allocation, directing support to regions experiencing the highest impact from the pandemic.
