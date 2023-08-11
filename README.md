@@ -1,5 +1,12 @@
 ##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/126ceca9-e69e-43b4-851a-9de69526d082" width="48" height="48"> COVID-19-Analysis
-This project aims to analyze the COVID-19 pandemic using publicly available data. The project includes a Jupyter notebook with Python code to extract, clean, and visualize COVID-19 data from various sources. Additionally, the project provides a dashboard to interactively explore the data.
+
+## Introduction
+COVID-19, caused by SARS-CoV-2, is a global pandemic respiratory illness since 2019. It ranges from mild to severe symptoms, affecting all aspects of life. Preventive measures include vaccination, masks, and distancing. Research and collaboration are key in managing its spread.
+
+## Problem Aimed to Solve
+
+This project aims to analyze the COVID-19 pandemic using publicly available data. The project includes a Jupyter notebook with Python code to extract, clean, and visualize COVID-19 data from various sources. Additionally, the project provides a dashboard to explore the data interactively.
+
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
 | Files/Folder| Description |
