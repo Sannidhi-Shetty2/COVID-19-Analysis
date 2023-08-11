@@ -51,7 +51,7 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
     
 ### 2. The imported data was in json format hence we used json library to read the data.
 
-<img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/7243d01e-9b32-43b6-9ae4-b3f6ba3ba9a8" width="1000" >
+<img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/a6f0ada1-1c0a-4934-a47d-9ba84e6d12c3" width="1000" >
     
 ### 3. We looked for null values and replaced it with zero, looked for duplicates.
     
